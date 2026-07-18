@@ -1,14 +1,18 @@
-#include<stdio.h>
-int sum(int n){
-    if(n==0)
+#include <stdio.h>
+
+int sum(int n) {
+    if (n == 0)
         return 0;
-        else
-        return n+sum(n-1);
-    }
-int main(){
+    return n + sum(n - 1);
+}
+
+int main() {
     int n;
-    printf("Enter the numbers:");
-    scanf("%d",&n);
-    printf("The sum of the numbers:%d",sum(n));
+
+    printf("Enter a number: ");
+    scanf("%d", &n);
+
+    printf("The sum is: %d\n", sum(n));
+
     return 0;
 }
