@@ -24,20 +24,20 @@ The repository includes implementations of:
 ```text
 DSA-LAB/
 ├── 📁 Binary Tree & Searching/
-│   ├── Binary_Search_On_Array.c
-│   ├── Linear_Search_On_Array.c
-│   └── Square_Root_Binary_search.c
+│   ├── binary_search.c
+│   ├── linear_search.c
+│   └── square_root_binarysearch.c
 │
 ├── 📁 Linear Data Structures/
-│   ├── Dynamic_Array.c
+│   ├── dynamic_array.c
 │   ├── linked_list.c
-│   ├── stack.c
-│   ├── queue.c
+│   ├── stack_.c
+│   ├── queue_.c
 │   └── circular_queue.c
 │
 └── 📁 Recursion/
     ├── fibonacci.c
-    └── sum_using_recursion.c
+    └── sum_Recursion.c
 
 ```
 
