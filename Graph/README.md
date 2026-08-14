@@ -1,24 +1,41 @@
 # Graph
 
-This folder contains basic Graph and Matrix implementations in C.
+## Overview
+
+Basic graph and matrix implementations in C using arrays and adjacency matrix representation.
 
 ## Files
 
-### 1. adjacency_matrix.c
+* `adjacency_matrix.c` - Represents a graph using an adjacency matrix
+* `matrix.c` - Demonstrates basic matrix operations using 2D arrays
 
-This program represents a graph using an **Adjacency Matrix**.
+## Key Concepts
 
-An adjacency matrix uses a 2D array where:
+* **Graph:** A collection of vertices and edges
+* **Vertex:** A node or point in a graph
+* **Edge:** A connection between two vertices
+* **Adjacency Matrix:** A 2D array used to represent connections between vertices
+* **2D Array:** Used to store matrix and graph data
+* **Undirected Graph:** A graph where edges have no direction
 
-- `1` means there is an edge between two vertices.
-- `0` means there is no edge.
+## Adjacency Matrix
+
+An adjacency matrix represents a graph using a 2D array.
+
+* `1`: An edge exists between two vertices
+* `0`: No edge exists between two vertices
 
 Example:
 
 ```text
     0 1 2 3
-  -----------
+  ---------
 0 | 0 1 1 0
 1 | 1 0 0 1
 2 | 1 0 0 1
 3 | 0 1 1 0
+```
+
+## Language
+
+* C
