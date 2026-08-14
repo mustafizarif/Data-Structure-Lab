@@ -108,7 +108,7 @@ The main purposes of this repository are:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **MD. MUSTAFIJUR RAHMAN ARIF**
 
