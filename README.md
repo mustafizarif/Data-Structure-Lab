@@ -10,11 +10,15 @@ This repository is created for learning, practicing, and understanding how funda
 
 The repository currently includes:
 
-* Searching Algorithms
-* Linear Data Structures
-* Graph & Matrix
+* Array
+* Binary Tree
+* Data Structures
+* Graph
 * Heap
 * Recursion
+* Sorting Algorithms
+* String
+* Tree
 
 ---
 
@@ -28,6 +32,10 @@ The repository currently includes:
 
 ```text
 Data-Structure-Lab/
+│
+├── 📁 Array/
+│   ├── README.md
+│   └── Array_reverse.c
 │
 ├── 📁 Binary Tree/
 │   ├── README.md
@@ -45,6 +53,9 @@ Data-Structure-Lab/
 │
 ├── 📁 Graph/
 │   ├── README.md
+│   ├── Dijkstra's.c
+│   ├── Kruskal's.c
+│   ├── Prim's.c
 │   ├── adjacency_matrix.c
 │   └── matrix.c
 │
@@ -58,14 +69,39 @@ Data-Structure-Lab/
 │   ├── fibonacci.c
 │   └── sum_Recursion.c
 │
+├── 📁 Sorting Algorithms/
+│   ├── README.md
+│   ├── bubble_sort.c
+│   ├── hap_sort.c
+│   ├── insertion_sort.c
+│   ├── merge_sort.c
+│   └── selection_sort.c
+│
+├── 📁 String/
+│   ├── README.md
+│   ├── character_frequency.c
+│   ├── extract_substring.c
+│   ├── palindrome_string.c
+│   └── pattern_matching.c
+│
+├── 📁 Tree/
+│   ├── README.md
+│   ├── BST_max_min.c
+│   ├── Expression_tree_evaluation.c
+│   ├── Huffman_coading.c
+│   └── Tree_traversal.c
+│
 └── 📄 README.md
 ```
 
-# 📝 Key Learning Notes
+---
+
+## 📝 Key Learning Notes
 
 Through this repository, the following fundamental DSA concepts are practiced:
 
 * Arrays
+* Array Reversal
 * Dynamic Memory Allocation
 * Pointers
 * Structures
@@ -73,21 +109,40 @@ Through this repository, the following fundamental DSA concepts are practiced:
 * Stacks
 * Queues
 * Circular Queues
-* Searching
+* Linear Search
 * Binary Search
 * Graph Representation
 * Adjacency Matrix
 * Matrices
-* Heaps
+* Dijkstra's Algorithm
+* Kruskal's Algorithm
+* Prim's Algorithm
+* Minimum Spanning Tree
 * Max Heap
 * Min Heap
 * Recursion
+* Fibonacci
+* Bubble Sort
+* Insertion Sort
+* Selection Sort
+* Merge Sort
+* Heap Sort
+* Character Frequency
+* Substring Extraction
+* Palindrome Checking
+* Pattern Matching
+* Binary Trees
+* Binary Search Trees
+* Tree Traversal
+* Expression Trees
+* Huffman Coding
 * Time Complexity
+* Space Complexity
 * Algorithmic Thinking
 
 ---
 
-# 🎯 Purpose
+## 🎯 Purpose
 
 The main purposes of this repository are:
 
@@ -95,20 +150,37 @@ The main purposes of this repository are:
 * Understanding how data structures work internally.
 * Practicing algorithms using C.
 * Strengthening C programming fundamentals.
-
+* Developing algorithmic thinking.
+* Understanding time and space complexity.
+* Preparing for Data Structures & Algorithms laboratory work.
 
 ---
 
-# 📌 Notes
+## 📌 Notes
 
 * All programs are written in **C**.
 * The programs are created primarily for **educational and laboratory practice**.
+* Each major topic contains its own `README.md` with key concepts and explanations.
+* The implementations focus on understanding the underlying concepts of DSA.
 * Code may be improved or optimized as my understanding of DSA develops.
 * More data structures and algorithms will be added to the repository in the future.
 
 ---
 
-#  Author
+## 🚀 Future Improvements
+
+* More advanced data structures
+* More graph algorithms
+* Advanced tree algorithms
+* Dynamic Programming
+* Greedy Algorithms
+* Additional sorting and searching algorithms
+* Algorithm optimization
+* More laboratory assignments
+
+---
+
+## 👨‍💻 Author
 
 **MD. MUSTAFIJUR RAHMAN ARIF**
 
@@ -118,4 +190,3 @@ The main purposes of this repository are:
 ---
 
 ⭐ **This repository is continuously being updated as I learn more about Data Structures & Algorithms.**
-
