@@ -102,24 +102,7 @@ This folder contains implementations of:
 
 ---
 
-## 🧠 Core Concepts
 
-These implementations demonstrate important Data Structures & Algorithms concepts:
-
-- Arrays
-- Loops
-- Conditional Statements
-- Functions
-- Swapping
-- Recursion
-- Divide and Conquer
-- Binary Heap
-- Time Complexity
-- Space Complexity
-- Stable Sorting
-- In-place Sorting
-
----
 
 ## 🔍 Algorithm Selection Guide
 
