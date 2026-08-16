@@ -96,7 +96,7 @@ Data-Structure-Lab/
 
 ---
 
-## 📝 Key Learning Notes
+## 📝 Topics Covered:
 
 Through this repository, the following fundamental DSA concepts are practiced:
 
